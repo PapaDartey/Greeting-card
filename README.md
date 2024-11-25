@@ -1,5 +1,5 @@
 # React + Vite
-Greeting Cards Application
+## Greeting Cards Application
 This is a React application built with Vite and styled using Tailwind CSS. The application demonstrates how to create reusable components and pass props to dynamically display content.
 ___
 
