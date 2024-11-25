@@ -4,9 +4,9 @@ This is a React application built with Vite and styled using Tailwind CSS. The a
 ___
 
 ## Features
-•A welcoming header component.
-•Reusable GreetingCard components for displaying greeting messages.
-•Responsive and modern styling using Tailwind CSS.
+- A welcoming header component.
+- Reusable GreetingCard components for displaying greeting messages.
+- Responsive and modern styling using Tailwind CSS.
 ___
 
 ## Testing Screensghot
@@ -15,6 +15,6 @@ This is a screenshot of the working app
 ___
 
 ## Technologies Used
-React: Front-end library for building user interfaces.
-Vite: Fast build tool for modern web development.
-Tailwind CSS: Utility-first CSS framework for rapid UI development.
+- React: Front-end library for building user interfaces.
+- Vite: Fast build tool for modern web development.
+- Tailwind CSS: Utility-first CSS framework for rapid UI development.
